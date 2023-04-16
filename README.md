@@ -9,5 +9,5 @@
 
 ## 📈 Some stats 
 
-![Github Stats](https://github-readme-stats-komatrich.vercel.app/api?username=komatrich&theme=tokyonight)
-![Top Languages](https://github-readme-stats-komatrich.vercel.app/api/top-langs/?username=komatrich&hide=html&layout=compact&theme=tokyonight)
+![Github Stats](https://github-readme-stats-komatrich.vercel.app/api?username=komatrich)
+![Top Languages](https://github-readme-stats-komatrich.vercel.app/api/top-langs/?username=komatrich&hide=html&layout=compact)
