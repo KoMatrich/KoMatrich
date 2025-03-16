@@ -1,6 +1,6 @@
 # Hi there, I'm Martin Kocich👋
 
-📚 I'm a student at FIT VUT in Brno, Czechia 
+📚 I'm a student at FI MUNI in Brno, Czechia 
 
 ## 💻 I enjoy working with
 
