@@ -48,4 +48,5 @@ Hi there, I'm Martin Kocich 👋
 ---
 
 **📊 GitHub Stats**
+
 ![Top Languages](https://github-readme-stats-komatrich.vercel.app/api/top-langs/?username=komatrich&hide=html&layout=compact)
