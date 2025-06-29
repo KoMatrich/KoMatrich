@@ -1,6 +1,4 @@
-## Martin Kocich's Refined GitHub Profile README
-
-Hi there, I'm Martin Kocich 👋
+# Hi there, I'm Martin Kocich 👋
 
 🎮 I'm a Master's student specializing in Game Development at FI MUNI, Brno, Czechia.
 
