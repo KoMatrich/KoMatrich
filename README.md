@@ -1,50 +1,26 @@
-# Hi there, I'm Martin Kocich 👋
+# Martin Kocich 👋
 
-🎮 I'm a Master's student specializing in Game Development at FI MUNI, Brno, Czechia.
+Master's student in **Game Development** at FI MUNI, Brno, Czechia. I build games
+and tools — mostly in Rust, Python, and C# — and work professionally with PL/SQL and C++.
 
----
+### Tech
 
-**💼 Currently Working With**
-- PL/SQL
-- C++
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
-**💻 I Enjoy Working With**
-- Rust
-- Python 🐍
-- C#
+| Language | Level        | Where I use it        |
+|----------|--------------|-----------------------|
+| Rust     | Advanced     | Side projects, tools  |
+| Python   | Advanced     | Scripting, automation |
+| C#       | Intermediate | Game dev (Unity)      |
+| PL/SQL   | Professional | Work                  |
+| C++      | Professional | Work                  |
 
----
+### GitHub
 
-**🕹️ About Me**
-- Passionate about building games and interactive experiences.
-- Blending academic research and practical coding in game development.
-- Always eager to learn new technologies and collaborate on exciting projects.
-
----
-
-**📚 Education**
-- Master's in Game Development, Faculty of Informatics, Masaryk University (FI MUNI), Brno
-
----
-
-**🚀 Experience**
-- Paid developer role focusing on PL/SQL and C++.
-- Academic and personal projects in Rust, Python, C# and others...
-
----
-
-**🔧 Skills**
-
-| Language/Tech | Level         | Usage Context         |
-|---------------|--------------|----------------------|
-| Rust          | Advanced     | Side projects, tools |
-| Python        | Advanced     | Scripting, automation|
-| C#            | Intermediate | Game dev (Unity)     |
-| PL/SQL        | Professional | Work                 |
-| C++           | Professional | Work                 |
-
----
-
-**📊 GitHub Stats**
-
-![Top Languages](https://github-readme-stats-komatrich.vercel.app/api/top-langs/?username=komatrich&hide=html&layout=compact)
+[![Stats](https://github-readme-stats-komatrich.vercel.app/api?username=komatrich&show_icons=true&hide_border=true)](https://github.com/komatrich)
+[![Top Languages](https://github-readme-stats-komatrich.vercel.app/api/top-langs/?username=komatrich&hide=html&layout=compact&hide_border=true)](https://github.com/komatrich)
